@@ -1,0 +1,25 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "final.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev1ninja/node-js-heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev1ninja/node-js-heroku/issues"
+  },
+  "homepage": "https://github.com/dev1ninja/node-js-heroku#readme"
+}
